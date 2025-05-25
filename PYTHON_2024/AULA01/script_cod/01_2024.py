@@ -1,1 +1,0 @@
-print ("Coringão campeão mundial!")
